@@ -1,0 +1,7 @@
+.footer__link {
+  margin: 0 0 0 18px;
+}
+
+.footer__link:first-of-type {
+  margin: 0;
+}

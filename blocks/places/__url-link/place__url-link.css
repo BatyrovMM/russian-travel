@@ -1,0 +1,9 @@
+.place__url-link {
+  color: inherit;
+}
+
+.place__url-link:hover {
+  text-decoration: underline;
+  opacity: .7;
+  transition: linear .5s;
+}
