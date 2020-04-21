@@ -1,0 +1,9 @@
+.place__url-heading_no-margin {
+  margin: 106px 0 0;
+}
+
+@media screen and (max-width: 1023px) {
+  .place__url-heading_no-margin {
+    margin: 46px 0 0;
+  }
+}

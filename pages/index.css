@@ -8,19 +8,6 @@
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/places/places.css);
+@import url(../blocks/place/place.css);
 @import url(../blocks/cover/cover.css);
 @import url(..//blocks/footer/footer.css);
-
-
-
-@media screen and (max-width: 1279px) {
-
-}
-
-@media screen and (max-width: 1023px) {
-
-}
-
-@media screen and (max-width: 767px) {
-
-}
